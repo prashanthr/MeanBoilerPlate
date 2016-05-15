@@ -1,3 +1,13 @@
+#node_modules
+node_modules
+
+#orig
+_orig_docean
+_orig_meanjs
+
+#unwanted files
+PULL_REQUEST_TEMPLATE.md
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
